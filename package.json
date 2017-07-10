@@ -1,0 +1,26 @@
+{
+  "name": "training-iframe",
+  "version": "1.0.0",
+  "description": "this is for training",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "try this out"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khatx/Training-Iframe.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Albert Mutesasira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khatx/Training-Iframe/issues"
+  },
+  "homepage": "https://github.com/khatx/Training-Iframe#readme"
+}
